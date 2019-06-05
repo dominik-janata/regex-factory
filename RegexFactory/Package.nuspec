@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>RegexFactory</id>
+    <version>0.1.0</version>
+    <authors>Domja</authors>
+    <owners>Domja</owners>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/dominik-janata/regex-builder</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>RegexFactory is a library for building, concatenating and reusing regular expressions</description>
+    <releaseNotes>A proof of concept.</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>Regex Factory Library</tags>
+    <dependencies />
+  </metadata>
+  <files>
+    <file src="bin\Release\RegexFactory.dll" target="lib\net46\RegexFactory.dll" />
+  </files>
+</package>
