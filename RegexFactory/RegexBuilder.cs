@@ -25,6 +25,11 @@ namespace RegexFactory
 
                 return this._pattern;
             }
+
+            internal set
+            {
+                this._pattern = value;
+            }
         }
 
         public Regex Regex => this._options == null ? new Regex(this.Pattern) : new Regex(this.Pattern, this._options.Value);

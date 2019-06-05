@@ -28,14 +28,12 @@ namespace RegexFactory.Groups
 
         public CharacterGroup RepeatOnePlusTimes()
         {
-            this._pattern += '+';
-            return this;
+            return new CharacterGroup(this._pattern + '+');
         }
 
         public CharacterGroup RepeatZeroPlusTimes()
         {
-            this._pattern += '*';
-            return this;
+            return new CharacterGroup(this._pattern + '*');
         }
 
         public static CharacterGroup CharRange(char from, char to)

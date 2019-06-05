@@ -50,6 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Extensions\RegexBuilderGroupOperationsExtensionsTest.cs" />
+    <Compile Include="RegexBuilderFactoryTest.cs" />
     <Compile Include="UseCasesTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

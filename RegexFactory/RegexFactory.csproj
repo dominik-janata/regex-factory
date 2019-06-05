@@ -48,6 +48,7 @@
     <Compile Include="Groups\NamedGroupEnding.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RegexBuilder.cs" />
+    <Compile Include="RegexBuilderFactory.cs" />
     <Compile Include="SpecialCharacters.cs" />
   </ItemGroup>
   <ItemGroup>
