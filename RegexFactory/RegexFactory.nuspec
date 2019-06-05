@@ -6,9 +6,9 @@
     <authors>Domja</authors>
     <owners>Domja</owners>
     <license type="expression">MIT</license>
-    <projectUrl>https://github.com/dominik-janata/regex-builder</projectUrl>
+    <projectUrl>https://github.com/dominik-janata/regex-factory</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>RegexFactory is a library for building, concatenating and reusing regular expressions</description>
+    <description>RegexFactory is a library for building, concatenating and reusing regular expressions.</description>
     <releaseNotes>A proof of concept.</releaseNotes>
     <copyright>Copyright 2019</copyright>
     <tags>Regex Factory Library</tags>
